@@ -1,6 +1,6 @@
 # HTML CSS Git Challenge: Code Refactor
 
-This week's challene involved an important aspect of web development: accessibility. This challenge demonstrated the Scout Rule, which involved refractoring the code to meet the Acceptance Criteria. The client Horiseon Marketing, wanted a codebase that follows accessibility standards so that their site is fully optimized for SEO.
+This week's challenge involved an important aspect of web development: accessibility. This challenge demonstrated the Scout Rule, which involved refractoring the code to meet the Acceptance Criteria. The client Horiseon Marketing, wanted a codebase that follows accessibility standards so that their site is fully optimized for SEO.
 
 ## Acceptance Criteria
 
