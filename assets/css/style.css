@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* apply styles to <header> */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Style Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero Style End */
 
 .float-left {
     float: left;
@@ -75,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* benefit styles start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefit style end */
 
+/*content styles start*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -187,7 +193,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*content styles end */
 
+/*footer styles start*/
 .footer {
     padding: 30px;
     clear: both;
@@ -198,3 +206,5 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/*footer styles end thank you =) */
+
