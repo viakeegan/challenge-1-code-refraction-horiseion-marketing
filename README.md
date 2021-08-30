@@ -17,6 +17,7 @@ WHEN I view the title element <br />
 THEN I find a concise, descriptive title <br />
 
 ## Screenshot
+(./downloads/01-html-css-git-homework-demo.png)
 
 ## Links
 github: https://github.com/viakeegan/challenge-1-code-refraction-horiseion-marketing
