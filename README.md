@@ -16,4 +16,10 @@ THEN they fall in sequential order <br />
 WHEN I view the title element <br />
 THEN I find a concise, descriptive title <br />
 
+## Screenshot
+
+## Links
+github: https://github.com/viakeegan/challenge-1-code-refraction-horiseion-marketing
+
+live page: https://viakeegan.github.io/challenge-1-code-refraction-horiseion-marketing/
 
